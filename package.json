@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "sass": "^1.53.0",
+    "vuejs-paginate": "^2.1.0"
+  }
+}
